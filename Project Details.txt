@@ -1,0 +1,31 @@
+This projects contains all basic python programs for beginners:-
+this includes
+1)hello world program
+2)variable and string program
+3)input functions
+4)if statement
+5)else statement
+7)Basic calculator
+8)for loop
+9)while loop
+10)infinite loop
+11)functions
+   a) return statement
+   b) default argument
+12)string basics
+    a) string slicing part 1 and 2
+    b)string features part 1 2 3, 
+    c)length of string, 
+    d)string features storing length in another variable
+13)Lists
+   a)Accessing list elements
+   b)Conditional statements for list
+   c)intro to lists
+   d)list methods or list funtions
+   e)list operations
+   f)more list functions
+14)Dictionary
+15)Modules
+16)User Defined modules   
+     
+
